@@ -1,2 +1,2 @@
-# PortfolioManagement (WIP(
+# PortfolioManagement (WIP)
 Getting started with Quantitative Portfolio Management 
