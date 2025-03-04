@@ -1,5 +1,5 @@
 # Portfolio Management (WIP)
-Getting started with Quantitative Portfolio Management 
+A simple repo to learn the basics of Portfolio Management
 
 ### The basics 
 - Lecture 01: Fundamentals of Risk & Return
