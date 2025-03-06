@@ -15,6 +15,6 @@ A simple repo to learn the basics of Portfolio Management
 - Lecture 09: All Weather Portfolio
 
 ### Fun Experiment 
-FS01: Born Sinner
+FS01: Is it worth it to be a sinner? 
 
 
