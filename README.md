@@ -8,11 +8,12 @@ A simple repo to learn the basics of Portfolio Management
 - Lecture 04: Portfolio Risk Metrics
 
 ### Working With models (Laughs in pain) 
-- Lecture 05: Mean-Variance optimization 
-- Lecture 06: Monte Carlo simulation 
-- Lecture 07: Intro to multi-factor models 
-- Lecture 08: Black-Litterman model 
-- Lecture 09: All Weather Portfolio
+- Lecture 05: Introduction to Portfolio Construction
+- Lecture 06: Mean-Variance optimization 
+- Lecture 07: Monte Carlo simulation 
+- Lecture 08: Intro to multi-factor models 
+- Lecture 09: Black-Litterman model 
+- Lecture 10: All Weather Portfolio
 
 ### Fun Experiment 
 FS01: Is it worth it to be a sinner? 
