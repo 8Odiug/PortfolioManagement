@@ -14,6 +14,7 @@ A simple repo to learn the basics of Portfolio Management
 - Lecture 08: Black-Litterman model 
 - Lecture 09: All Weather Portfolio
 
-
+### Fun Experiment 
+FS01: Is it worth it to be a sinner? 
 
 
