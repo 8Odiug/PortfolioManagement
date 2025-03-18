@@ -16,6 +16,7 @@ A simple repo to learn the basics of Portfolio Management
 - Lecture 10: All Weather Portfolio
 
 ### Fun Experiment 
-FS01: Is it worth it to be a sinner? 
+FS01: When diversification fails
+FS0X: Is it worth it to be a sinner? 
 
 
