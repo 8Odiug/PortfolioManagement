@@ -15,8 +15,9 @@ A simple repo to learn the basics of Portfolio Management
 - Lecture 09: Black-Litterman model 
 - Lecture 10: All Weather Portfolio
 
-### Fun Experiment 
+### Fun Experiments
 FS01: When diversification fails
 FS0X: Is it worth it to be a sinner? 
+FS02: Comparing Economies
 
 
