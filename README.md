@@ -18,9 +18,9 @@ A simple repo to learn the basics of Portfolio Management
 
 
 ### Case Studies 
-CS01: Comparing Economies
-CS02: What makes a diversified portfolio? (Statman 1987)
-CS03: When diversification fails (Page & Panariello 2019)
-CS04: Is it worth it to be a sinner? 
+- CS01: Comparing Economies
+- CS02: What makes a diversified portfolio? (Statman 1987)
+- CS03: When diversification fails (Page & Panariello 2019)
+- CS04: Is it worth it to be a sinner? 
 
 
