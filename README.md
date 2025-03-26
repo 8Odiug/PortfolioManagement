@@ -7,8 +7,6 @@ A simple repo to learn the basics of Portfolio Management
 - Lecture 03: Asset Classes & Their Risk-Return Profile
 - Lecture 04: Portfolio Risk Metrics
 
-- Lecture 0X: Monte Carlo Simulation 
-
 ### Working With models (Laughs in pain) 
 - Lecture 05: Introduction to Portfolio Construction
 - Lecture 06: Mean-Variance optimization
@@ -25,4 +23,6 @@ A simple repo to learn the basics of Portfolio Management
 - CS03: When diversification fails (Page & Panariello 2019)
 - CS04: Is it worth it to be a sinner? 
 
+### Additional Knowledge 
+- AK01: Monte Carlo Simulation 
 
