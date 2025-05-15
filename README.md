@@ -23,4 +23,6 @@ A simple repo to learn the basics of Portfolio Management
 - CS03: When diversification fails (Page & Panariello 2019)
 - CS04: Is it worth it to be a sinner? 
 
+### Additional Knowledge 
+- AK01: Monte Carlo Simulation 
 
